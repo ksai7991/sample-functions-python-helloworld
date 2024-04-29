@@ -1,5 +1,25 @@
+#packages:
+#  - name: sample
+#   actions:
+#      - name: hello
+#        runtime: 'python:default'
+parameters: {}
+environment: {}
 packages:
-  - name: sample
-    actions:
-      - name: hello
-        runtime: 'python:default'
+    - name: sample
+      shared: false
+      environment: {}
+      parameters: {}
+      annotations: {}
+      functions:
+        - name: hello
+          binary: false
+          main: "main"
+          runtime: python:3.11
+          web: true
+          webSecure: "Ne7r8kmzYl0wswE"
+          parameters: {}
+          environment: {}
+          annotations: {}
+          limits: {}
+
