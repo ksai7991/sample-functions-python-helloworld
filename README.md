@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a sample "Hello World" function written in Python. You can deploy it on DigitalOcean's App Platform as a Serverless Function component or as a standalone Function. Documentation is available at https://docs.digitalocean.com/products/functions.
+This repository contains a sample "Hello World" function written in Python. You can deploy it on DigitalOcean's App Platform as a Serverless Function component or as a standalone Function. Documentation is available at https://docs.digitalocean.com/products/functions. gfrhgtrhgth
 
 ### Requirements
 
